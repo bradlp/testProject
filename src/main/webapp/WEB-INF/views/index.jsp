@@ -4,7 +4,7 @@
 <%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn"%>
 
 <head>
-<title>Employee Database</title>
+<title>Employee Database 2</title>
 </head>
 
 <head>
